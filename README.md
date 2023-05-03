@@ -1,4 +1,7 @@
 # T5-Reaction-Prediction
+
+This work was done as a class project for XCS224N 
+
 This repo uses Pytorch Lightning and HuggingFace Transformer to fine-tune T5 for Chemical Reaction Prediciton.
 See https://github.com/pschwllr/MolecularTransformer for training script and model training a Transformer from scratch using OpenNMT
 and https://github.com/blender-nlp/MolT5 for details on pre-training T5. 
